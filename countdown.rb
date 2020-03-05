@@ -4,7 +4,4 @@ def countdown(number)
     number -= 1
   end
   "HAPPY NEW YEAR!"
-  def countdown_with_sleep
-    sleep(0.5)
-  end
 end
